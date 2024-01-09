@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { Typography } from "@material-tailwind/react";
-import  Cursos from "../components/Courses";
+import  Cursos from "../../components/Courses";
 
 const SPONSORS = [
   "coinbase",
